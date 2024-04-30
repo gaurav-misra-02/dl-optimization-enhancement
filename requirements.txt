@@ -1,0 +1,29 @@
+# Deep Learning Optimization Enhancement Requirements
+
+# Core Deep Learning
+torch>=1.7.0
+torchvision>=0.8.0
+torchmetrics>=0.5.0
+
+# Reinforcement Learning
+stable-baselines3>=0.10.0
+gymnasium>=0.26.0
+gym>=0.17.0
+
+# Scientific Computing
+numpy>=1.18.0
+scipy>=1.5.0
+
+# Visualization
+matplotlib>=3.3.0
+
+# Jupyter (optional, for notebooks)
+jupyter>=1.0.0
+ipykernel>=5.0.0
+
+# Utilities
+tqdm>=4.50.0
+
+# Note: For CUDA support, install the appropriate torch version:
+# pip install torch torchvision --index-url https://download.pytorch.org/whl/cu118
+
