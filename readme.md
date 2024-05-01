@@ -356,20 +356,6 @@ pip install torch torchvision --index-url https://download.pytorch.org/whl/cu118
 - 8GB+ RAM
 - 10GB+ disk space for datasets
 
-## Citation
-
-If you use this code or findings in your research, please cite:
-
-```bibtex
-@misc{optimization-enhancement,
-  author = {Your Name},
-  title = {Analysis and Improvement of Optimization Methods for Deep Learning},
-  year = {2024},
-  institution = {Indian Institute of Technology Bombay},
-  note = {Research Project under Prof. Avinash Bhardwaj}
-}
-```
-
 ## Acknowledgments
 
 - **Prof. Avinash Bhardwaj** (IIT Bombay) - Research guidance and mentorship
